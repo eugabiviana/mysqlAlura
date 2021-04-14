@@ -1,0 +1,1 @@
+DROP TABLE tbtabela_de_vendedores2;
